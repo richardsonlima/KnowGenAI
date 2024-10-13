@@ -1,0 +1,29 @@
+Pergunta: O que é a física quântica?
+Resposta: A física quântica é o ramo da física que estuda as menores partículas e fenômenos do universo, como átomos e partículas subatômicas, descrevendo o comportamento dessas entidades em escalas microscópicas.
+
+Pergunta: O que é o princípio da incerteza de Heisenberg?
+Resposta: O princípio da incerteza de Heisenberg afirma que é impossível medir simultaneamente com precisão a posição e o momento (quantidade de movimento) de uma partícula. Quanto mais precisamente determinamos uma dessas quantidades, mais incerta se torna a outra.
+
+Pergunta: O que é superposição quântica?
+Resposta: A superposição quântica é o princípio segundo o qual uma partícula pode existir em múltiplos estados ao mesmo tempo, até que seja observada ou medida. Um exemplo famoso é o experimento mental do "Gato de Schrödinger".
+
+Pergunta: O que é entrelaçamento quântico?
+Resposta: O entrelaçamento quântico é um fenômeno em que duas ou mais partículas se tornam correlacionadas de tal maneira que o estado de uma delas está diretamente relacionado ao estado da outra, independentemente da distância entre elas.
+
+Pergunta: Como a dualidade onda-partícula afeta o comportamento das partículas?
+Resposta: A dualidade onda-partícula significa que as partículas quânticas, como elétrons e fótons, podem se comportar tanto como partículas quanto como ondas, dependendo de como são observadas.
+
+Pergunta: O que é o colapso da função de onda?
+Resposta: O colapso da função de onda ocorre quando uma partícula quântica, que existe em um estado de superposição, é medida ou observada, forçando-a a "escolher" um único estado definido.
+
+Pergunta: O que é a constante de Planck?
+Resposta: A constante de Planck é uma constante fundamental na física que descreve a escala na qual os efeitos quânticos se tornam importantes. Ela é usada para calcular a energia de um fóton com base em sua frequência.
+
+Pergunta: Qual é a diferença entre a física quântica e a física clássica?
+Resposta: A física clássica descreve o comportamento de objetos macroscópicos com base nas leis de Newton e Maxwell, enquanto a física quântica trata de fenômenos em escalas microscópicas e descreve comportamentos que não podem ser explicados pelas leis clássicas.
+
+Pergunta: O que é um qubit na computação quântica?
+Resposta: Um qubit é a unidade básica de informação na computação quântica, análogo ao bit clássico, mas com a diferença de que pode representar 0, 1, ou ambos simultaneamente devido à superposição.
+
+Pergunta: O que é o experimento da dupla fenda?
+Resposta: O experimento da dupla fenda demonstra a dualidade onda-partícula. Quando partículas, como elétrons ou fótons, são lançadas através de duas fendas, elas formam um padrão de interferência típico de ondas, a menos que sejam observadas, momento em que agem como partículas.
