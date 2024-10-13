@@ -1,8 +1,8 @@
 
 # **KnowGenAI**
-## - Knowledge Base Generator with RAG and ICL
+## - Knowledge Base Generator with RAG, ICL, and Contextual Retrieval
 
-KnowGenAI is a Python-based project designed to generate JSON-formatted knowledge bases from question-answer pairs. It now integrates advanced techniques like **Retrieval-Augmented Generation (RAG)** and **In-Context Learning (ICL)** for enhanced information retrieval and dynamic question answering with large language models (LLMs).
+**KnowGenAI** is a Python-based project designed to generate JSON-formatted knowledge bases from question-answer pairs. It now integrates advanced techniques like Retrieval-Augmented Generation (RAG), In-Context Learning (ICL), and Contextual Retrieval for enhanced information retrieval and dynamic question answering with large language models (LLMs).
 
 ![App](image/app-v2.png)
 
@@ -10,12 +10,25 @@ KnowGenAI is a Python-based project designed to generate JSON-formatted knowledg
 
 ![Generated JSON file](image/json_kb.png)
 
-## **Features**
-- **Generate JSON files**: Convert question-answer pairs into structured JSON files, with metadata like `title`, `segment`, and `journey`.
-- **Export to ZIP**: Automatically export generated JSON files into a ZIP archive.
-- **RAG-Enhanced Knowledge Base**: The project includes functionality to create embeddings and store them in a vector database for semantic search and RAG implementation.
-- **In-Context Learning**: Provide context and examples to LLMs, using question-answer examples from the knowledge base for dynamic generation.
-- **Gradio-based UI**: A simple Gradio-based interface for uploading question-answer sets and downloading knowledge base files.
+## Features
+
+### 1. Generate JSON Files
+Convert question-answer pairs into structured JSON files, including metadata such as title, segment, and journey. This structure allows for easy access and utilization of the generated information in later analyses.
+
+### 2. Export to ZIP
+The generated JSON files can be automatically exported into a ZIP archive. This makes it easy to download and organize the generated data in a single compressed file.
+
+### 3. RAG-Enhanced Knowledge Base
+The application includes functionality to create embeddings and store them in a vector database for semantic search and RAG implementation. This enhances the retrieval of relevant information based on context.
+
+### 4. In-Context Learning
+Provide context and examples to language models (LLMs), using question-answer examples from the knowledge base for dynamic generation. This allows for more relevant and context-aware responses.
+
+### 5. Contextual Retrieval
+Implement a mechanism for contextual retrieval that allows users to obtain precise and contextually relevant information based on user queries, enhancing the overall user experience and accuracy of responses.
+
+### 6. Gradio-based UI
+A simple Gradio-based interface for uploading question-answer sets and downloading knowledge base files, making the application user-friendly and accessible.
 
 ## **Table of Contents**
 - [Installation](#installation)
