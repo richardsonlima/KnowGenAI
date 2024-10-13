@@ -1,5 +1,6 @@
 
-# **KnowGenAI - Knowledge Base Generator with RAG and ICL**
+# **KnowGenAI**
+## - Knowledge Base Generator with RAG and ICL
 
 KnowGenAI is a Python-based project designed to generate JSON-formatted knowledge bases from question-answer pairs. It now integrates advanced techniques like **Retrieval-Augmented Generation (RAG)** and **In-Context Learning (ICL)** for enhanced information retrieval and dynamic question answering with large language models (LLMs).
 
