@@ -110,7 +110,7 @@ The generated JSON files follow this structure:
 
 Each question-answer pair is converted into a single JSON file and structured with additional metadata fields such as `title`, `product`, `segment`, and `journey`. This structure ensures consistency across the knowledge base.
 
-## **RAG & ICL Integration**
+## **RAG, ICL, and Contextual Retrieval**
 
 ### **Retrieval-Augmented Generation (RAG)**
 KnowGenAI can generate embeddings from the knowledge base and store them in a vector database like FAISS or Pinecone. These embeddings are then used in a RAG pipeline to enable more accurate and contextually relevant responses from an LLM.
