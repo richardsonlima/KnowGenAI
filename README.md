@@ -4,7 +4,7 @@
 
 KnowGenAI is a Python-based project designed to generate JSON-formatted knowledge bases from question-answer pairs. It now integrates advanced techniques like **Retrieval-Augmented Generation (RAG)** and **In-Context Learning (ICL)** for enhanced information retrieval and dynamic question answering with large language models (LLMs).
 
-![App](image/app.png)
+![App](image/app-v1.png)
 
 ![API](image/api.png)
 
