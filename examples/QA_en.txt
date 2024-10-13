@@ -1,0 +1,32 @@
+Question: What is quantum physics?
+Answer: Quantum physics is the branch of physics that studies the smallest particles and phenomena in the universe, such as atoms and subatomic particles, describing the behavior of these entities on microscopic scales.
+
+Question: What is the Heisenberg uncertainty principle?
+Answer: The Heisenberg uncertainty principle states that it is impossible to simultaneously accurately measure both the position and momentum (quantity of movement) of a particle. The more precisely we determine one of these quantities, the more uncertain the other becomes.
+
+Question: What is quantum superposition?
+Answer: Quantum superposition is the principle that a particle can exist in multiple states at the same time, until it is observed or measured. A famous example is the "Schrödinger's Cat" thought experiment.
+
+Question: What is quantum entanglement?
+Answer: Quantum entanglement is a phenomenon in which two or more particles become correlated in such a way that the state of one particle is directly related to the state of the other, regardless of the distance between them.
+
+Question: How does wave-particle duality affect the behavior of particles?
+
+Answer: Wave-particle duality means that quantum particles, such as electrons and photons, can behave either as particles or as waves, depending on how they are observed.
+
+Question: What is wave function collapse?
+
+Answer: Wave function collapse occurs when a quantum particle, which exists in a superposition state, is measured or observed, forcing it to "choose" a single, defined state.
+
+Question: What is Planck's constant?
+
+Answer: Planck's constant is a fundamental constant in physics that describes the scale at which quantum effects become important. It is used to calculate the energy of a photon based on its frequency.
+
+Question: What is the difference between quantum physics and classical physics?
+Answer: Classical physics describes the behavior of macroscopic objects based on Newton's and Maxwell's laws, while quantum physics deals with phenomena on microscopic scales and describes behaviors that cannot be explained by classical laws.
+
+Question: What is a qubit in quantum computing?
+Answer: A qubit is the basic unit of information in quantum computing, analogous to the classical bit, except that it can represent 0, 1, or both simultaneously due to superposition.
+
+Question: What is the double-slit experiment?
+Answer: The double-slit experiment demonstrates wave-particle duality. When particles, such as electrons or photons, are fired through two slits, they form an interference pattern typical of waves, unless observed, at which point they act like particles.
